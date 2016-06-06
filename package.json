@@ -9,6 +9,7 @@
   "author": "Ajay Sunarthi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.4.6"
   }
 }
